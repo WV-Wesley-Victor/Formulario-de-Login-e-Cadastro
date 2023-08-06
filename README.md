@@ -1,0 +1,2 @@
+# Formulario de Login e Cadastro
+ Este é um repositório no GitHub que apresenta um projeto prático de formulário de login e cadastro desenvolvido com HTML e CSS. O objetivo deste projeto é fornecer exemplos de implementação de formulários de autenticação e registro de usuários, demonstrando como criar campos de entrada, botões e elementos de seleção. Aprenda como melhorar a usabilidade e a interação do usuário em páginas web.
